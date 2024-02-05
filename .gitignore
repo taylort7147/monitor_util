@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# VS
+.vs/
+
+# Generated files
+*.exe.*
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.vcxproj.*
+*.idb
+
